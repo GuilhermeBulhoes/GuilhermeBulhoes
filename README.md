@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Bulhões! 👋
 
-<!--
-**GuilhermeBulhoes/GuilhermeBulhoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 ADS Student @FIAP | Full Stack, Apps & AI Enthusiast
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, focado em criar soluções modernas que unem o poder do desenvolvimento **Full Stack** com a inteligência da **IA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🔭 O que estou desenvolvendo agora:
+- 💻 Aprimorando minhas habilidades em **React** e **Node.js**.
+- 🤖 Explorando integrações de **IA** em aplicações Web e Mobile.
+- 📱 Desenvolvendo projetos práticos na **FIAP**.
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [Guilherme Bulhões](https://www.linkedin.com/in/guilherme-bulh%C3%B5es-a74a448)
+- **Localização:** São Paulo, Brazil 🇧🇷 (Open to Remote & On-site)
+
+---
+
+> "Building smart solutions with React, Node.js & Python. Available for new challenges."
