@@ -1,6 +1,6 @@
-# Hello, I'm Guilherme Bulhões! 👋
+# Hello, I'm Guilherme Bulhões! 
 
-### 🚀 ADS Student @FIAP | Full Stack, Apps & AI Enthusiast
+###  ADS Student @FIAP | Full Stack, Apps & AI Enthusiast
 
 I am a student of **Systems Analysis and Development** at **FIAP**, focused on creating modern solutions that combine the power of **Full Stack** development with the intelligence of **AI**.
 
@@ -13,9 +13,9 @@ I am a student of **Systems Analysis and Development** at **FIAP**, focused on c
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-- 💻 Improving my skills in **React** and **Node.js**.
-- 🤖 Exploring integrations of**IA** in web and mobile applications.
-- 📱 Developing practical projects at **FIAP**.
+-  Improving my skills in **React** and **Node.js**.
+-  Exploring integrations of**IA** in web and mobile applications.
+-  Developing practical projects at **FIAP**.
 
 ### 📫 How to find me:
 * **LinkedIn:** [Guilherme Bulhões](https://www.linkedin.com/in/guilherme-bulh%C3%B5es-a74a448)
