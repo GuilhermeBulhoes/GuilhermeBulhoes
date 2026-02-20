@@ -6,8 +6,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, focado 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,8 +13,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, focado 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 🔭 O que estou desenvolvendo agora:
 - 💻 Aprimorando minhas habilidades em **React** e **Node.js**.
 - 🤖 Explorando integrações de **IA** em aplicações Web e Mobile.
 - 📱 Desenvolvendo projetos práticos na **FIAP**.
