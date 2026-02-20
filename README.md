@@ -2,7 +2,7 @@
 
 ### 🚀 ADS Student @FIAP | Full Stack, Apps & AI Enthusiast
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, focado em criar soluções modernas que unem o poder do desenvolvimento **Full Stack** com a inteligência da **IA**.
+I am a student of **Systems Analysis and Development** at **FIAP**, focused on creating modern solutions that combine the power of **Full Stack** development with the intelligence of **AI**.
 
 ---
 
