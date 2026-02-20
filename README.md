@@ -16,10 +16,10 @@ I am a student of **Systems Analysis and Development** at **FIAP**, focused on c
 - 💻 Improving my skills in **React** and **Node.js**.
 - 🤖 Exploring integrations of**IA** in web and mobile applications.
 - 📱 Developing practical projects at **FIAP**.
-- 
+
 ### 📫 Como me encontrar:
 * **LinkedIn:** [Guilherme Bulhões](https://www.linkedin.com/in/guilherme-bulh%C3%B5es-a74a448)
-- *São Paulo, Brazil 🇧🇷 (Open to Remote & On-site)**.
+- **São Paulo, Brazil 🇧🇷 (Open to Remote & On-site)**.
 
 ---
 
