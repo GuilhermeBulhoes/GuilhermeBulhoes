@@ -1,7 +1,7 @@
 # Hello!🚀 
 
 
-Desenvolvedor Frontend focado em criar interfaces modernas e funcionais, unindo design de alta fidelidade e código limpo.
+Sou **Desenvolvedor Frontend** focado em criar interfaces modernas e funcionais, unindo design de alta fidelidade e código limpo.
 
 𝐌𝐢𝐧𝐡𝐚 𝐬𝐭𝐚𝐜𝐤 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚 𝐞́ 𝐟𝐨𝐜𝐚𝐝𝐚 𝐧𝐨 𝐞𝐜𝐨𝐬𝐬𝐢𝐬𝐭𝐞𝐦𝐚 𝐦𝐨𝐝𝐞𝐫𝐧𝐨 𝐝𝐚 𝐖𝐞𝐛:
 
