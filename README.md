@@ -1,4 +1,4 @@
-# Hello, I'm Guilherme Bulhões! 
+# Hello!🚀 
 
 ###  Desenvolvedor Frontend | JavaScript • HTML • CSS | UI Design com Figma | ADS na FIAP
 
@@ -25,12 +25,11 @@ Atualmente, estou potencializando minha base técnica através da graduação em
 
 ### 📫 How to find me: 
 
-**Linkedin:** https://www.linkedin.com/in/guilherme-bulhoes
+**LinkedIn:** https://www.linkedin.com/in/guilherme-bulhoes
 
-**Gmail:** g.bulhoes.17@gmail.com
+**Gmail:** 📧 g.bulhoes.17@gmail.com
 
-Presidente Prudente, São Paulo, Brazil 🇧🇷 
-
+📍Presidente Prudente, São Paulo, Brazil 🇧🇷 
 
 ---
 > "Building smart solutions with React, Node.js & Python. Available for new challenges."
