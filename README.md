@@ -17,8 +17,9 @@ I am a student of **Systems Analysis and Development** at **FIAP**, focused on c
 -  Exploring integrations of**IA** in web and mobile applications.
 -  Developing practical projects at **FIAP**.
 
-### 📫 How to find me:
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/guilherme-bulhoes)
+### 📫 How to find me: 
+
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com) 
 [![Gmail](https://img.shields.io)](mailto:g.bulhoes.17@gmail.com)
 
 * 
