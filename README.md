@@ -1,8 +1,16 @@
 # Hello, I'm Guilherme Bulhões! 
 
-###  ADS Student @FIAP | Full Stack, Apps & AI Enthusiast
+###  Desenvolvedor Frontend | JavaScript • HTML • CSS | UI Design com Figma | ADS na FIAP
 
-I am a student of **Systems Analysis and Development** at **FIAP**, focused on creating modern solutions that combine the power of **Full Stack** development with the intelligence of **AI**.
+Desenvolvedor Frontend focado em criar interfaces modernas e funcionais, unindo design de alta fidelidade e código limpo.
+
+𝐌𝐢𝐧𝐡𝐚 𝐬𝐭𝐚𝐜𝐤 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚 𝐞́ 𝐟𝐨𝐜𝐚𝐝𝐚 𝐧𝐨 𝐞𝐜𝐨𝐬𝐬𝐢𝐬𝐭𝐞𝐦𝐚 𝐦𝐨𝐝𝐞𝐫𝐧𝐨 𝐝𝐚 𝐖𝐞𝐛:
+
+●Desenvolvimento: JavaScript (ES6+), HTML5 e CSS3 (Flexbox/Grid).
+●Design & UI: Domínio de Figma para análise de prototipagem e aplicação de Design Systems.
+●Workflow: Versionamento com Git & GitHub e produtividade no VS Code.
+
+Atualmente, estou potencializando minha base técnica através da graduação em Análise e Desenvolvimento de Sistemas na 𝖥𝖨𝖠𝖯 e especialização prática no Discover da 𝐑𝐨𝐜𝐤𝐞𝐭𝐬𝐞𝐚𝐭. Busco transformar protótipos complexos em aplicações reais e escaláveis.
 
 ---
 
@@ -13,18 +21,16 @@ I am a student of **Systems Analysis and Development** at **FIAP**, focused on c
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
--  Improving my skills in **React** and **Node.js**.
--  Exploring integrations of**IA** in web and mobile applications.
--  Developing practical projects at **FIAP**.
+
 
 ### 📫 How to find me: 
 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com) 
-[![Gmail](https://img.shields.io)](mailto:g.bulhoes.17@gmail.com)
+**Linkedin:** https://www.linkedin.com/in/guilherme-bulhoes
 
-* 
-- **São Paulo, Brazil 🇧🇷 (Open to Remote & On-site)**.
+**Gmail:** g.bulhoes.17@gmail.com
+
+Presidente Prudente, São Paulo, Brazil 🇧🇷 
+
 
 ---
-
 > "Building smart solutions with React, Node.js & Python. Available for new challenges."
