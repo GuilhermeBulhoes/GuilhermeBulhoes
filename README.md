@@ -20,6 +20,9 @@ Atualmente, estou potencializando minha base técnica através da graduação em
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io)
+![Flask](https://img.shields.io)
+![OpenAI](https://img.shields.io)
 
 ---
 
