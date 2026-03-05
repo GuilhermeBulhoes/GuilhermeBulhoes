@@ -1,4 +1,4 @@
-<img src="https://GUILHERME BULHÕES_20260304_211358_0000.png" width="1000%">
+<img src="1.png" width="500">
 
 # Guilherme Bulhões
 **Software Developer | FIAP — ADS**
