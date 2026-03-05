@@ -1,17 +1,22 @@
-# Hello!🚀 
+<img src="https://raw.githubusercontent.com" width="100%">
 
+# Guilherme Bulhões
+**Software Developer | FIAP — ADS**
 
-Sou **Desenvolvedor Frontend** focado em criar interfaces modernas e funcionais, unindo design de alta fidelidade e código limpo.
+Engenharia de software focada em interfaces funcionais e automação com Inteligência Artificial. Atualmente desenvolvendo soluções que conectam Webhooks, LLMs e ambientes Cloud.
 
-𝐌𝐢𝐧𝐡𝐚 𝐬𝐭𝐚𝐜𝐤 𝐭𝐞́𝐜𝐧𝐢𝐜𝐚 𝐞́ 𝐟𝐨𝐜𝐚𝐝𝐚 𝐧𝐨 𝐞𝐜𝐨𝐬𝐬𝐢𝐬𝐭𝐞𝐦𝐚 𝐦𝐨𝐝𝐞𝐫𝐧𝐨 𝐝𝐚 𝐖𝐞𝐛:
+---
 
-●Desenvolvimento: JavaScript (ES6+), HTML5 e CSS3 (Flexbox/Grid).
+### ◈ Stack Técnica
 
-●Design & UI: Domínio de Figma para análise de prototipagem e aplicação de Design Systems.
+**◌ Desenvolvimento & IA**
+JavaScript (ES6+) ⬢ Python (Flask) ⬢ OpenAI API (NLP)
 
-●Workflow: Versionamento com Git & GitHub e produtividade no VS Code.
+**◌ Infraestrutura & Cloud**
+Render (PaaS) ⬢ Twilio (WhatsApp API) ⬢ Webhooks ⬢ Git & GitHub
 
-Atualmente, estou potencializando minha base técnica através da graduação em Análise e Desenvolvimento de Sistemas na 𝖥𝖨𝖠𝖯 e especialização prática no Discover da 𝐑𝐨𝐜𝐤𝐞𝐭𝐬𝐞𝐚𝐭. Busco transformar protótipos complexos em aplicações reais e escaláveis.
+**◌ Design & Prototipagem**
+Figma ⬢ Design Systems ⬢ Canva
 
 ---
 
@@ -23,14 +28,23 @@ Atualmente, estou potencializando minha base técnica através da graduação em
 
 ---
 
+### ❖ Projeto em Destaque: Assistente Financeiro IA
+**Arquitetura Cloud & Processamento de Linguagem Natural**
 
-### 📫 How to find me: 
-
-**LinkedIn:** https://www.linkedin.com/in/guilherme-bulhoes
-
-**Gmail:** 📧 g.bulhoes.17@gmail.com
-
-📍Presidente Prudente, São Paulo, Brazil 🇧🇷 
+Microserviço em Python para extração de dados financeiros via WhatsApp.
+* **Desafio:** Parsear mensagens naturais para JSON estruturado.
+* **Arquitetura:** Webhook Flask → OpenAI GPT-3.5 → Resposta via Twilio.
+* **Deploy:** Ambiente de produção 24/7 hospedado no Render.
 
 ---
-> "Building smart solutions with React, Node.js & Python. Available for new challenges."
+
+### 🎓 Formação Acadêmica
+* **Análise e Desenvolvimento de Sistemas** — FIAP (Graduação)
+* **Especialização Prática** — Rocketseat (Discover)
+
+---
+
+### ✉ Contato
+**LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/guilherme-bulhoes)  
+**Email:** g.bulhoes.17@gmail.com  
+**Local:** Presidente Prudente, SP — Brasil 🇧🇷
