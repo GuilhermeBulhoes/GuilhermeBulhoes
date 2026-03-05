@@ -1,4 +1,4 @@
-<img src="1.png" width="500">
+<img src="capdogithub.png" width="500">
 
 # Guilherme Bulhões
 **Software Developer | FIAP — ADS**
