@@ -40,19 +40,19 @@ Microserviço em Python para extração de dados financeiros via WhatsApp.
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e2b387f4-9983-4b1c-b17e-9aefecd68e00" />
 
-### Formação Acadêmica
+### ◈ Formação Acadêmica
 
 * **Análise e Desenvolvimento de Sistemas** — FIAP (Graduação)
 * **Montagem e Manutenção de Computadores, Redes e Celulares** — Faculdade Prepara (Ensino Técnico)
 
-### Licenças e certificadosLicenças e certificados
+### ◈ Licenças e certificadosLicenças e certificados
 
  * **Valuation** — ANBIMA
  * **Discover** — Rocketseat
 
 ---
 
-### Contato
+### ◈ Contato
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/1cf9fca5-5077-40b9-bd93-47ae5f546855" /> [://linkedin.com](https://www.linkedin.com/in/guilherme-bulhoes) 
 
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/c3affd82-aa97-4051-8e6d-e8c7f6e17b77" /> g.bulhoes.17@gmail.com
